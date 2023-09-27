@@ -1,25 +1,20 @@
-## Olá, eu sou Pedro Azevedo!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Pedro!;" />
+</h1>
 
 <div align="center">
-  <a href="https://github.com/pedro-azevedo3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-azevedo3&show_icons=true&theme=highcontrast"ra&include_all_commits=true&count_private=true"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=pedro-azevedo3&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> </br>
 </div>
 
-## Tecnologias que tenho experiência:
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-          
-          
-</div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=github,python,javascript,flask,html,css,figma,git" /><br>
+</div> 
 
-## Minhas Redes Sociais:
+
+
+<h2 align="center">My Social Media</h2>
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UC2Uu2U_OLNM8tGtG2zEGaow" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
