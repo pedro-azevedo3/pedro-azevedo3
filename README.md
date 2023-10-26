@@ -2,10 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Pedro!;" />
 </h1>
 
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=pedro-azevedo3&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> </br>
-</div>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
   <div align="center">
