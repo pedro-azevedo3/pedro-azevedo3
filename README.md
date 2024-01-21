@@ -5,7 +5,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,flask,python,java,mysql,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,spring,flask,mongodb,mysql,postgres" /><br>
 </div> 
 
 
