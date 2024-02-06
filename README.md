@@ -8,7 +8,11 @@
     <img src="https://skillicons.dev/icons?i=python,java,spring,flask,mongodb,mysql,postgres" /><br>
 </div> 
 
+### 📊 Estatísticas
 
+<a href="https://github.com/pedro-azevedo3" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-azevedo3&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
 
 <h2 align="center">My Social Media</h2>
 
