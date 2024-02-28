@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro-azevedo3&label=Profile%20views&color=0e75b6&style=flat" alt="pedro-azevedo3" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot!**
+- 🌱 I’m currently learning **SpringBoot!** and **React!**
 
 - 📝 I regularly write articles on [https://www.instagram.com/devpedroazevedo/](https://www.instagram.com/devpedroazevedo/)
 
