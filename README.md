@@ -37,7 +37,7 @@
 [![Back End](https://skillicons.dev/icons?i=nodejs,python,java,spring,mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
 
 ### ☁️ DevOps & Cloud
-[![DevOps](https://skillicons.dev/icons?i=git,github,linux,docker&theme=dark)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=git,github,linux,docker,vercel,supabase&theme=dark)](https://skillicons.dev)
 
 </div>
 
